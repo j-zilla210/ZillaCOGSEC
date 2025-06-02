@@ -118,3 +118,33 @@ Your child needs to know:
 > You’re a teammate, not a spy
 
 ✅ Tip: Co-create a “Digital Safety Agreement” that includes mutual trust and check-ins.
+
+
+
+
+## 📚 References
+
+1. "Digital Literacy for Children: An Overview." *ERIC*, 2024.  
+   [https://files.eric.ed.gov/fulltext/EJ1430795.pdf](https://files.eric.ed.gov/fulltext/EJ1430795.pdf)
+
+2. "Digital Literacy: Getting Kids Connected and Keeping Them Safe." *National Association of Elementary School Principals (NAESP)*, 2023.  
+   [https://www.naesp.org/blog/digital-literacy-getting-kids-connected-and-keeping-them-safe/](https://www.naesp.org/blog/digital-literacy-getting-kids-connected-and-keeping-them-safe/)
+
+3. "How to Explain the Complex Problem of Social Engineering to Kids." *Safe Search Kids*, 2023.  
+   [https://www.safesearchkids.com/how-to-explain-the-complex-problem-of-social-engineering-to-kids/](https://www.safesearchkids.com/how-to-explain-the-complex-problem-of-social-engineering-to-kids/)
+
+4. "Identifying Common Social Engineering Attacks to Kids." *Safer Kids Online*, ESET, 2022.  
+   [https://saferkidsonline.eset.com/uk/article/identifying-common-social-engineering-attacks-to-kids](https://saferkidsonline.eset.com/uk/article/identifying-common-social-engineering-attacks-to-kids)
+
+5. "Smartphones and Children: Are These Hazardous to Their Health?" *Conway Medical Center*, 2023.  
+   [https://www.conwaymedicalcenter.com/news/topic/smartphones-and-children-are-these-hazardous-to-their-health/](https://www.conwaymedicalcenter.com/news/topic/smartphones-and-children-are-these-hazardous-to-their-health/)
+
+6. "The Effect of Smartphones on Child Development." *Concordia University, Nebraska*, 2020.  
+   [https://www.cune.edu/news/examining-effect-smartphones-child-development](https://www.cune.edu/news/examining-effect-smartphones-child-development)
+
+7. "A Parent's Guide: Keeping Your Kids Safe in a Digital World." *Social-Engineer.org*, 2025.  
+   [https://www.social-engineer.org/newsletter/a-parents-guide-keeping-your-kids-safe-in-a-digital-world/](https://www.social-engineer.org/newsletter/a-parents-guide-keeping-your-kids-safe-in-a-digital-world/)
+
+8. "Keeping Children Safe Online." *Cybersecurity and Infrastructure Security Agency (CISA)*, 2023.  
+   [https://www.cisa.gov/news-events/news/keeping-children-safe-online](https://www.cisa.gov/news-events/news/keeping-children-safe-online)
+
