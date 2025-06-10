@@ -368,6 +368,6 @@ Let curiosity be their compass—and you be their guide.
 
 ## Additional Resources
 
-For more information on online gaming and messaging apps, see [resources.md](./resources.md).
+For more information see [resources.md](./resources.md).
 
 
