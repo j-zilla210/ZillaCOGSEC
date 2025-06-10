@@ -1,8 +1,8 @@
 # ZillaCOGSEC
-🧠 Path to Cognitive Security
+## 🧠 Path to Cognitive Security
 Welcome! This repository documents my journey into Cognitive Security, a growing intersection of cybersecurity, psychology, and social engineering defense. Here, I’ll share my learning, research, projects, and experiments—especially around understanding and mitigating the human-focused attacks that traditional security controls often miss.
 
-👤 About Me
+### 👤 About Me
 🎓 B.S. in Cybersecurity and Information Assurance
 
 🎓 Career Certificate in Information Technology Security and Administration
@@ -19,7 +19,7 @@ Welcome! This repository documents my journey into Cognitive Security, a growing
 
 💭 Long-term goal: Build, test, and contribute to systems that detect, analyze, and counter cognitive attacks (like phishing, misinformation, etc.)
 
-🔥 Motivation
+### 🔥 Motivation
 My passion for cognitive security is deeply personal. My family is my driving force—especially watching how:
 
 🧒 Children are exposed to technology at younger ages, often without the skills to protect themselves from manipulation or harm.
@@ -28,15 +28,15 @@ My passion for cognitive security is deeply personal. My family is my driving fo
 
 Technology is becoming inseparable from daily life, and I want to be part of the solution—helping make digital spaces safer and more intuitive for those most at risk.
 
-📜 Certifications
-CompTIA Security+
-CompTIA A+
-Microsoft Certified: Security, Compliance, and Identity Fundamentals
-Microsoft Certified: Azure AI Fundamentals 
-Microsoft Certified: Azure Fundamentals
-NSA/DHS Cyber Defense Education Certification
+### 📜 Certifications
+- CompTIA Security+
+- CompTIA A+
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: Azure AI Fundamentals 
+- Microsoft Certified: Azure Fundamentals
+- NSA/DHS Cyber Defense Education Certification
 
-🔍 What This Repo Will Cover
+### 🔍 What This Repo Will Cover
 This GitHub repo will serve as a living document, tracking my self-study, thoughts, and findings on topics like:
 
 🎭 Common Social Engineering Techniques and how they manipulate trust, fear, urgency, etc.
