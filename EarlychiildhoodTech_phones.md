@@ -1,4 +1,4 @@
-# Your child wants a phone, now what?
+# Early Childhood Technology: Phones
 
 Disclaimer:
 The advice and information shared here are based on my professional understanding of cybersecurity and the internet, 
