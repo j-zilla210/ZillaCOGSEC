@@ -2,6 +2,12 @@
 ## 🧠 Path to Cognitive Security
 Welcome! This repository documents my journey into Cognitive Security, a growing intersection of cybersecurity, psychology, and social engineering defense. Here, I’ll share my learning, research, projects, and experiments—especially around understanding and mitigating the human-focused attacks that traditional security controls often miss.
 
+## ✅ Available Blog posts
+
+- 📱 [Early Childhood Technology: Phones](./EarlychildhoodTech_phones.md)
+- 🧠 [The Internet and Kids – From a Cognitive Security Perspective](./Misinformation.md)
+
+
 ## 👤 About Me
  - 🎓 B.S. in Cybersecurity and Information Assurance
 
