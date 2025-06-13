@@ -7,6 +7,8 @@ Welcome! This repository documents my journey into Cognitive Security, a growing
 - 📱 [Early Childhood Technology: Phones](./EarlychildhoodTech_phones.md)
 - 🧠 [The Internet and Kids – From a Cognitive Security Perspective](./Misinformation.md)
 
+## Resources
+ - [Resources links](./resources.md)
 
 ## 👤 About Me
  - 🎓 B.S. in Cybersecurity and Information Assurance
