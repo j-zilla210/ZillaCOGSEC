@@ -10,6 +10,11 @@ Welcome! This repository documents my journey into Cognitive Security, a growing
 ## Resources
  - [Resources links](./resources.md)
 
+## 📄 Resume
+
+Want a quick overview of my skills and experience?  
+👉 [Download My Resume](./joshuaovalle_resume.pdf)
+
 ## 👤 About Me
  - 🎓 B.S. in Cybersecurity and Information Assurance
 
