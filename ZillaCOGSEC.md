@@ -1,5 +1,5 @@
-ZillaCOGSEC
-🧠 Path to Cognitive Security
+### ZillaCOGSEC
+## 🧠 Path to Cognitive Security
 Welcome! This repository documents my journey into Cognitive Security, a growing intersection of cybersecurity, psychology, and social engineering defense. Here, I’ll share my learning, research, projects, and experiments—especially around understanding and mitigating the human-focused attacks that traditional security controls often miss.
 
 👤 About Me
