@@ -15,6 +15,10 @@ Welcome! This repository documents my journey into Cognitive Security, a growing
 Want a quick overview of my skills and experience?  
 👉 [Download My Resume](./joshuaovalle_resume.pdf)
 
+## Professional Statement
+
+**I bring strong written and verbal communication skills that help bridge the gap between technical solutions and everyday understanding. I believe everyone deserves safe access to the internet, regardless of their background or technical knowledge. My goal is to make cybersecurity more approachable and protective for all users, especially those who need it most.**
+
 ## 👤 About Me
  - 🎓 B.S. in Cybersecurity and Information Assurance
 
