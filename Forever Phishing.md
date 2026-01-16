@@ -89,6 +89,8 @@ If you enter anything into the text box, no matter what, it will tell you your p
 
 <img width="412" height="371" alt="image" src="https://github.com/user-attachments/assets/ceca03bb-089b-43df-af8a-ba36d205c799" />
 
-
+The actual page had nothing immedietly malicious, other than intent to steal user credentials. 
+Which should be alarming enough. 
+These emails can come in many forms, even with links to google forms pages, though that are far more likely to be removed quicker by Google itself since their policies when it involves what content a forms page can have will often be triggered since these pages ask for PII. 
 
 
