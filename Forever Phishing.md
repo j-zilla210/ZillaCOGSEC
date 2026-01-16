@@ -17,12 +17,15 @@ It is early January and tax return time is coming up. As much as we are aware of
 The attack itself was very simple, just one request and the message was generally polite and not trying to induce any type of urgency.
 The email importance was marked as "high" but only to attempt to push the email through quicker.
 
-[image]
+<img width="787" height="415" alt="image" src="https://github.com/user-attachments/assets/23e2ff98-71cc-4158-a2c1-722d08717609" />
+
 
 The request was for employee's 2025 W-2 forms. Requesting they be sent back to this email. No malicious links to click, no urgency, just a message with a request. 
 Simple.
 The odd part of the email was where it was coming from. info@MIT.edu. The email itself met all the marks, with the exception of DKIM not passing.
 The email still got through since all other aspects of the email passed and came from a legitimate email and location.
+
+
 
 For these types of emails, it is important that your users understand that, though a message looks harmless, when anyone requests information,
 especially information that has user PII, double checking is important. The attacker is hoping that someone in HR would read the email, 
@@ -33,6 +36,13 @@ In this instance it was brought to my attention and I had the emails removed fro
 Then I started my investigation.
 
 The first thing I did, after quarentining the email, was grabbing the header because a lot of details hide in there. 
+
+<img width="730" height="252" alt="image" src="https://github.com/user-attachments/assets/463ef5f1-4336-4eef-ae28-217ad799f244" />
+
+<img width="885" height="353" alt="image" src="https://github.com/user-attachments/assets/33b102eb-0d96-4730-93c5-6123c2d98c9b" />
+
+<img width="964" height="321" alt="image" src="https://github.com/user-attachments/assets/380d5991-347d-42e2-a7ba-5549b1b0bee4" />
+
 
 The very first thing we look at is where is this email coming from, just to verify legitimacy. We got the originating IP and could see the path it took.
 The path was legitimate and the IP address was that of MIT and thanks to the MIT mail server, we could see the account that authenticated to send the email out.
