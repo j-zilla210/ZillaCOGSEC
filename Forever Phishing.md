@@ -1,12 +1,17 @@
+### Phishing, breaking down different types of phishing
+
+
 As long as the internet exists, there will always be someone out there phishing for your information.
 
-Quick phishing refresher:
+## Quick phishing refresher:
 1. Phishing comes in many names ( Vishing, smishing, spear phishing, whaling, quishing...etc)
 2. No matter the name, the goal is to attempt to steal information from someone or get someone to do something that compromises their technology.
 3. Questioning where any type of communication comes from, if not from a trusted entity is key to stopping phishing in it's tracks.
 
 Phishing attacks can be complicated, overwhelming and very annoying, but sometimes phishing can be very simple. 
 The example I have comes from a real phishing attempt I was looking into recently. 
+
+## Simple phishing attempt 
 
 It is early January and tax return time is coming up. As much as we are aware of important events in our lives, so are hackers. 
 The attack itself was very simple, just one request and the message was generally polite and not trying to induce any type of urgency.
@@ -53,11 +58,36 @@ This triggered Microsoft Defender Fingerprint matching and it sent the email str
 it could be the email layout, the body text pattern, attachment hashes, embeded URLs and how they are constructed, and even CSS or layout markers.
 With these indicators, it is easy to stop these attackers from overwhelming your users.
 
+## Internal spoofing attempt
+
+<img width="840" height="357" alt="image" src="https://github.com/user-attachments/assets/29e0e8b7-d8c6-4adf-b61d-2dca8f104b4f" />
 
 
+Another recent example was an internal phishing attempt. Attacker spoofed multiple internal emails, sending them to a few users as well as sending some to the real email they attempted to spoof.
+
+Due to it failing multiple checks (SPF, DKIM, and DMARC) Microsoft Defender immedietly blocked all the emails due to High-confidence Phishing. This also let us know that no internal accounts were compromised.
+
+After verifying no account compromise, we can look deeper into what the attacker is after. 
+In the email itself we see they are attempting to pretend that Office365 is requesting the user to update their credentials.
+
+<img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/d79601c8-117a-46de-8388-cd6c92de03af" />
 
 
+The link leads us to a redirect page, this can be a good or bad thing for phishing URLs.
+Sometimes Defender recognizes redirects as malicious, but not always. Especially shortened links, sometimes obfuscation can hide what the final URL actually is. 
+Once you are passed the redirect page you are given a fake Microsoft login page that shows the intended users email and only requests the password.
+Biggest red flag?
+none of the normal Microsoft links work (Forgot Password?, Other ways to sign in, the back arrow next to the email address) The only option is to select "sign in"
 
+Normally I would never have anyone try to click around a very obvious phishing attempt, but this was for research and was done in a safe environment.
+
+If you click on "Sign in" with nothing in the text box, it just tells you to enter your password.
+If you enter anything into the text box, no matter what, it will tell you your password is wrong, over and over requesting you submit it again.
+
+<img width="423" height="338" alt="image" src="https://github.com/user-attachments/assets/61f601d0-2419-4c11-a396-8fa03abd04cc" />
+
+
+<img width="412" height="371" alt="image" src="https://github.com/user-attachments/assets/ceca03bb-089b-43df-af8a-ba36d205c799" />
 
 
 
